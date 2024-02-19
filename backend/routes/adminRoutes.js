@@ -14,7 +14,7 @@ router.get("/collections" , fetchCollections);
 router.post("/collections" , createCollection);
 router.put("/collections/:collectionId" , editCollection);
 router.delete("/collections/:collectionId" , deleteCollection);
-r
+
 
 //subcollections
 
