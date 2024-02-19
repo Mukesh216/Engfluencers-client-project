@@ -1,0 +1,81 @@
+@font-face {
+    font-family: 'opf'; /* Provide a name for your font */
+    src: url('./NextBro-EaA2W.ttf') format('truetype'); /* Adjust the path and format as needed */
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'opf2'; /* Provide a name for your font */
+    src: url('./AlloyInk-nRLyO.ttf') format('truetype'); /* Adjust the path and format as needed */
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'BetrendZone'; 
+    src: url('./BetrendZone-nRqoY.otf') format('opentype'); 
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'JuliettBold'; 
+    src: url('./JuliettBold-4BaBl.ttf') format('truetype'); 
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'JuliettBoldItalic'; 
+    src: url('./JuliettBoldItalic-0W4WP.ttf') format('truetype'); 
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'JuliettItalic'; 
+    src: url('./JuliettItalic-eZDZl.ttf') format('truetype'); 
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'JuliettRegular'; 
+    src: url('./JuliettRegular-WyXyG.ttf') format('truetype'); 
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'MarginalPersonalUseOnly'; 
+    src: url('./MarginalPersonalUseOnly-p7n81.otf') format('opentype'); 
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Oserif'; 
+    src: url('./Oserif-2OPL3.ttf') format('truetype'); 
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'RoleModelPersonalUseRegular'; 
+    src: url('./RoleModelPersonalUseRegular-8MooA.otf') format('opentype'); 
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'TarunowideMedium'; 
+    src: url('./TarunowideMedium-JR94B.otf') format('opentype'); 
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'TarunowideMediumitalic'; 
+    src: url('./TarunowideMediumitalic-GOPaa.otf') format('opentype'); 
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'ZtRavigsfenRegular'; 
+    src: url('./ZtRavigsfenRegular-mL51v.otf') format('opentype'); 
+    font-weight: normal;
+    font-style: normal;
+  }

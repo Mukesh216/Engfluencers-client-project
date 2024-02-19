@@ -1,0 +1,2 @@
+﻿license: Demo
+link: https://www.fontspace.com/marginal-only-font-f107008
